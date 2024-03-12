@@ -11,3 +11,5 @@ __pycache__/
 .idea/
 .vs/
 /migrations/
+/migrations/*.py
+/migrations/*.pyc
