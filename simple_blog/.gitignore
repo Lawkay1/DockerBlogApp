@@ -1,0 +1,12 @@
+.env
+db.env
+*.pyc
+__pycache__/
+/venv/
+/env/
+/staticfiles/
+/media/
+.vscode/
+.idea/
+.vs/
+/migrations/

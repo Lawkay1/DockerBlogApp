@@ -1,0 +1,3 @@
+POSTGRES_DB=yourpostgresdbnamehere
+POSTGRES_USER=yourpostgresusernamehere
+POSTGRES_PASSWORD=yourpostgrespasswordhere

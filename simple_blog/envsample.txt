@@ -1,0 +1,4 @@
+DBNAME = 'your db name here'
+PASSWORD = 'your db password here'
+USERNAME = 'your db user name here'
+
