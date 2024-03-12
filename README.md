@@ -6,10 +6,10 @@
 	`git clone https://github.com/Lawkay1/DockerBlogApp`
 
 2. cd into the simple_blog directory 
-	`cd simple_blog`
-3. Using the example template named envsample.txt and db_envsample.txt 
-	- Create a file named .env and populate the values of your desired database credentials
-	- Create another file named db.env and populate the values of your desired database credentials 
+	`cd DockerBlogApp/simple_blog`
+3. Using the sample template named envsample.txt and db_envsample.txt 
+	- Create a file named .env and populate the values of your desired database credentials (based on the ensample.txt file).
+	- Create another file named db.env and populate the values of your desired database credentials (based on the db_envsample.txt file). 
 	**(Keep the keys consistent with what is on the sample)**
 
 4. Build the web and database service using the docker-compose command below 
